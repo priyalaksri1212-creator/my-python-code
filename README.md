@@ -1,14 +1,17 @@
-# My Python Project
+CodSoft Internship - Task 1
 
-This is my first Python project uploaded to GitHub.
+NAME: PRIYADHARSHINI S
 
-## About
-This program prints basic details like name, age, and GPA.
+Task:
 
-## How to run
-1. Open terminal
-2. Type:
-   python priyadharshini.py
+To-Do List Application
 
-## Author
-Priyadharshini
+Description:
+
+This project is created as part of CodSoft Internship Task 1.
+
+Technologies Used:
+
+- Python
+
+#codsoft #internship #task1
